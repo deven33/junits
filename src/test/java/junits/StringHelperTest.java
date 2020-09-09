@@ -25,7 +25,7 @@ public class StringHelperTest {
 	@Test
 	public void testpositvie() {
 		StringHelper stringHelper =new StringHelper();
-		boolean actual = stringHelper.areFirstAndLastTwoCharactersTheSame("ABCD");
+		boolean actual = stringHelper.areFirstAndLastTwoCharactersTheSame("ABAB");
 		assertTrue(actual);
 	}
 }

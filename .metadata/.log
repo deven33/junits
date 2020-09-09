@@ -1,0 +1,185 @@
+!SESSION 2020-09-09 14:04:05.711 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2020-09-09 14:04:53.880
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-09-09 14:04:53.881
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='org.springframework.ide.eclipse.boot.wizard', id='org.springframework.ide.eclipse.boot.wizard.addStarersSwitchHandler'
+
+!ENTRY org.eclipse.jface 2 0 2020-09-09 14:05:13.621
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-09-09 14:05:13.621
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@42684d86,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45a05350,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-09-09 14:05:42.215
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\deven'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2020-09-09 14:08:29.340
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-09-09 14:08:33.527 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\Learnings Practice\java\core java\junits_mokito -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2020-09-09 14:08:40.193
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-09-09 14:08:40.193
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='org.springframework.ide.eclipse.boot.wizard', id='org.springframework.ide.eclipse.boot.wizard.addStarersSwitchHandler'
+
+!ENTRY org.eclipse.jface 2 0 2020-09-09 14:08:50.747
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-09-09 14:08:50.747
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b30b627,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5fa9971f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-09-09 14:09:02.989
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\deven'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2020-09-09 14:09:34.945
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-09-09 14:09:36.176 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data D:\Learnings Practice\java\core java\junits_mokito -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2020-09-09 14:09:40.996
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-09-09 14:09:40.996
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='org.springframework.ide.eclipse.boot.wizard', id='org.springframework.ide.eclipse.boot.wizard.addStarersSwitchHandler'
+
+!ENTRY org.eclipse.jface 2 0 2020-09-09 14:09:44.769
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-09-09 14:09:44.769
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@70a24463,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@684430c1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-09-09 14:09:54.493
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\deven'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 4 0 2020-09-09 14:11:56.056
+!MESSAGE Invalid project description.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:266)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:252)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createExistingProject(ProjectUtils.java:179)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.access$0(ProjectUtils.java:146)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils$1.run(ProjectUtils.java:104)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2312)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:138)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:62)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.importProjects(GitImportWizard.java:256)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.access$2(GitImportWizard.java:238)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard$4.run(GitImportWizard.java:208)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Contains: OK
+Contains: D:\Learnings Practice\java\core java\junits_mokito overlaps the workspace location: D:\Learnings Practice\java\core java\junits_mokito
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-09-09 14:11:56.075
+!MESSAGE Invalid project description.
+!SUBENTRY 2 unknown 0 0 2020-09-09 14:11:56.075
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2020-09-09 14:11:56.075
+!MESSAGE D:\Learnings Practice\java\core java\junits_mokito overlaps the workspace location: D:\Learnings Practice\java\core java\junits_mokito
+
+!ENTRY org.eclipse.egit.ui 4 0 2020-09-09 14:12:06.931
+!MESSAGE Invalid project description.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:266)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:252)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createExistingProject(ProjectUtils.java:179)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.access$0(ProjectUtils.java:146)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils$1.run(ProjectUtils.java:104)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2312)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:138)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:62)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.importProjects(GitImportWizard.java:256)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.access$2(GitImportWizard.java:238)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard$4.run(GitImportWizard.java:208)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Contains: OK
+Contains: D:\Learnings Practice\java\core java\junits_mokito overlaps the workspace location: D:\Learnings Practice\java\core java\junits_mokito
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-09-09 14:12:06.931
+!MESSAGE Invalid project description.
+!SUBENTRY 2 unknown 0 0 2020-09-09 14:12:06.931
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2020-09-09 14:12:06.931
+!MESSAGE D:\Learnings Practice\java\core java\junits_mokito overlaps the workspace location: D:\Learnings Practice\java\core java\junits_mokito
+
+!ENTRY org.eclipse.ui 2 2 2020-09-09 14:12:52.694
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
